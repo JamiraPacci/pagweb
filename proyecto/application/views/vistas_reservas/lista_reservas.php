@@ -12,7 +12,7 @@
                 <?php echo form_close(); ?>
 
                 <?php echo form_open_multipart('reservas/listapdf'); ?>
-                <button type="submit" name="buton2" class="btn btn-success">Lista estudiantes PDF</button>
+                <button type="submit" name="buton2" class="btn btn-success">Lista PDF</button>
                 <?php echo form_close(); ?>
 
                 <table class="table">
